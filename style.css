@@ -1,0 +1,32 @@
+.main-box {
+    background-color: #0f9d58;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: sans-serif;
+    text-align: center;
+    max-width: 600px;
+    margin: 20px auto;
+}
+.subtitle {
+    font-size: 18px;
+}
+.offer {
+    font-size: 16px;
+}
+.book-btn {
+    background: #dae18c;
+    color: #0f9d58;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+}
+.footer {
+    text-align: center;
+    color: hsl(65, 47%, 56%);
+    margin-top: 40px;
+    font-size: 30px;
+}
